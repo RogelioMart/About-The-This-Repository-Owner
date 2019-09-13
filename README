@@ -1,6 +1,5 @@
-echo "# HelloWorld" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/RogelioMart/HelloWorld.git
-git push -u origin master
+#  Hello World
+Hi
+
+I am programmer that can code in C, C++, Java, MatLab, and x86 Assembly.
+Interested in learning about Machine Learning and in learning more about computer science.
